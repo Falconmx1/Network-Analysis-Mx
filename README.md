@@ -20,3 +20,11 @@ Herramienta de análisis de red para **Linux y Windows** con 7 módulos integrad
 git clone https://github.com/Falconmx1/Network-Analysis-Mx.git
 cd Network-Analysis-Mx
 pip install -r requirements.txt
+
+🚀 Uso
+python network_analysis_mx.py
+
+🖥️ Compatibilidad
+✅ Windows (CMD, PowerShell, WSL)
+
+✅ Linux (Ubuntu, Debian, Kali, Arch, etc.)
