@@ -23,7 +23,7 @@ git clone https://github.com/Falconmx1/Network-Analysis-Mx.git
 cd Network-Analysis-Mx
 install_windows.bat
 
-### Linux
+Linux
 git clone https://github.com/Falconmx1/Network-Analysis-Mx.git
 cd Network-Analysis-Mx
 chmod +x install_linux.sh
